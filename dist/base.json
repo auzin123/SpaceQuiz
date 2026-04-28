@@ -1,0 +1,13 @@
+{
+    "statistics": [
+        {
+            "date": "2026-04-28 20:02:53",
+            "title": "Викторина завершена",
+            "correct_answers": 10,
+            "incorrect_answers": 9,
+            "total_questions": 19,
+            "time_seconds": 49.46,
+            "formatted_time": "00:00:49"
+        }
+    ]
+}
